@@ -5,8 +5,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Web Development**
-- 📫 How to reach me: **shivanighavate7@gmail.com**
+-  I’m currently learning **Web Development**
+-  How to reach me: **shivanighavate7@gmail.com**
 
 ---
 
