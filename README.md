@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 🌟</h1>
 
 <h1 align="center">Hey! I'm Shivani Ghavate</h1>
-<h3 align="center">A passionate learner from India 🇮🇳</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 ---
 
